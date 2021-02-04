@@ -66,3 +66,4 @@ function writeYourGenser() {
 writeYourGenser();
 
 ahowMyDB();
+console.log(1);
